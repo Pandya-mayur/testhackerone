@@ -1,0 +1,2 @@
+/*
+  Content-Security-Policy: default-src 'self'; connect-src 'self' data: blob: https://testhackerone.piwiksandbox.com;
